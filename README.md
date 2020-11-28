@@ -6,7 +6,7 @@
 
 📚 I'm a Web Development and Data Science student;
 <ul>
-  <li style='list-style-type:none'>👉 HTML</li>
+  <li style='list-style-type:none;'>👉 HTML</li>
   <li>👉 CSS</li>
   <li>👉 JavaScript</li>
   <li>👉 PHP</li>
