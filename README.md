@@ -6,6 +6,7 @@
 📍 I'm from Caxias do Sul, RS - Brasil
 
 📚 I'm a Web Development and Data Science student
+  <br>
   ✔️ HTML
   <br>
   ✔️ CSS
@@ -18,6 +19,7 @@
   <br>
 
 🏃 I love to playing sports
+  <br>
   👉 Soccer
   <br>
   👉 Volleyball
