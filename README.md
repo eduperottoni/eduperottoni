@@ -6,11 +6,11 @@
 
 📚 I'm a Web Development and Data Science student;
 <ul>
-  <li style='list-style-type:none;'>👉 HTML</li>
-  <li>👉 CSS</li>
-  <li>👉 JavaScript</li>
-  <li>👉 PHP</li>
-  <li>👉 Python</li>
+  👉 HTML
+  👉 CSS
+  👉 JavaScript
+  👉 PHP
+  👉 Python
 </ul>
 
 💻 I’m currently working on projects and studying a lot about Web Development
