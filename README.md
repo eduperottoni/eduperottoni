@@ -1,4 +1,4 @@
-### Fala, galera! :octocat:
+### Fala, galera! 
 
 <!--
 **eduperottoni/eduperottoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 
 📚 I'm a Web Development and Data Science student;
 <ul>
-  <li>👉 HTML</li>
+  <li style='list-style-type:none'>👉 HTML</li>
   <li>👉 CSS</li>
   <li>👉 JavaScript</li>
   <li>👉 PHP</li>
@@ -24,6 +24,8 @@
 💬 You can contact me by:
   ✉️ edu.perottoni@gmail.com
   📞  +55(54)99204-6595
+  :octocat: eduperottoni
+  
   
   
   
