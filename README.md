@@ -7,10 +7,15 @@
 📚 I'm a Web Development and Data Science student;
 <ul>
   👉 HTML
+  <br>
   👉 CSS
+  <br>
   👉 JavaScript
+  <br>
   👉 PHP
+  <br>
   👉 Python
+  <br>
 </ul>
 
 💻 I’m currently working on projects and studying a lot about Web Development
