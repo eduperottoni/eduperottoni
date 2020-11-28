@@ -6,7 +6,7 @@
 📍 I'm from Caxias do Sul, RS - Brasil
 
 📚 I'm a Web Development and Data Science student
-  <br>
+<ul>
   ✔️ HTML
   <br>
   ✔️ CSS
@@ -17,9 +17,10 @@
   <br>
   ✔️ Python
   <br>
+</ul> 
 
 🏃 I love to playing sports
-  <br>
+<ul>
   👉 Soccer
   <br>
   👉 Volleyball
@@ -27,10 +28,12 @@
   👉 Handball
   <br>
   👉 Muay thai
+</ul>  
 
 💻 I’m currently working on projects and studying a lot about Web Development
 
 💬 You can contact me by:
+<ul>
   ✉️ edu.perottoni@gmail.com
   <br>
   📞 +55(54)99204-6595
@@ -38,4 +41,4 @@
   :octocat: 🔗 https://github.com/eduperottoni
   <br>
   <b>Linkedln</b>: 🔗 https://www.linkedin.com/in/eduardo-perottoni-6625871a3/
-  
+</ul>  
