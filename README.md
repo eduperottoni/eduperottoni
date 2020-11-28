@@ -5,7 +5,6 @@
 -->
 
 📚 I'm a Web Development and Data Science student;
-<ul>
   👉 HTML
   <br>
   👉 CSS
@@ -16,9 +15,9 @@
   <br>
   👉 Python
   <br>
-</ul>
 
 💻 I’m currently working on projects and studying a lot about Web Development
+
 
 
 - 🌱 I’m currently learning ...
@@ -28,7 +27,7 @@
 
 💬 You can contact me by:
   ✉️ edu.perottoni@gmail.com
-  📞  +55(54)99204-6595
+  :whatsapp:  +55(54)99204-6595
   :octocat: eduperottoni
   
   
