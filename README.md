@@ -5,11 +5,13 @@
 -->
 
 📚 I'm a Web Development and Data Science student;
-  👉 HTML
-  👉 CSS
-  👉 JavaScript
-  👉 PHP
-  👉 Python
+<ul>
+  <li>👉 HTML</li>
+  <li>👉 CSS</li>
+  <li>👉 JavaScript</li>
+  <li>👉 PHP</li>
+  <li>👉 Python</li>
+</ul>
 
 💻 I’m currently working on projects and studying a lot about Web Development
 
