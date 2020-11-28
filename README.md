@@ -1,39 +1,39 @@
-### Fala, galera! 
+### Hey, guys! 🙋
 
 <!--
 **eduperottoni/eduperottoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+📍 I'm from Caxias do Sul, RS - Brasil
 
-📚 I'm a Web Development and Data Science student;
-  👉 HTML
+📚 I'm a Web Development and Data Science student
+  ✔️ HTML
   <br>
-  👉 CSS
+  ✔️ CSS
   <br>
-  👉 JavaScript
+  ✔️ JavaScript
   <br>
-  👉 PHP
+  ✔️ PHP
   <br>
-  👉 Python
+  ✔️ Python
   <br>
+
+🏃 I love to playing sports
+  👉 Soccer
+  <br>
+  👉 Volleyball
+  <br>
+  👉 Handball
+  <br>
+  👉 Muay thai
 
 💻 I’m currently working on projects and studying a lot about Web Development
 
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--  Ask me about ...
-
 💬 You can contact me by:
   ✉️ edu.perottoni@gmail.com
-  :whatsapp:  +55(54)99204-6595
-  :octocat: eduperottoni
+  <br>
+  📞 +55(54)99204-6595
+  <br>
+  :octocat: 🔗 https://github.com/eduperottoni
+  <br>
+  <b>Linkedln</b>: 🔗 https://www.linkedin.com/in/eduardo-perottoni-6625871a3/
   
-  
-  
-  
-  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
